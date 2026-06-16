@@ -1,0 +1,14 @@
+SET(SOURCES ui_ScreenBoot.c
+    ui_ScreenMain.c
+    ui_ScreenDetail.c
+    ui_ScreenSystem.c
+    ui_ScreenAlarm.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    fonts/ui_font_NotoSansTC.c
+    fonts/ui_font_NotoSansTC_12.c
+    fonts/ui_font_NotoSansTC_14.c
+    fonts/ui_font_NotoSansTC_20.c)
+
+add_library(ui ${SOURCES})
