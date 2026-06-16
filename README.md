@@ -49,7 +49,7 @@ Click the Upload button. After a few seconds, your code will be uploaded to the 
 I decided to make this because I want to make my life more convenient lol. Without looking at my phone, I can see when the bus comes to my bus station.
 
 ## How do you really use it?
-<img width="725" height="137" alt="螢幕截圖 2026-06-15 下午6 56 58" src="https://github.com/user-attachments/assets/0d286a66-086e-4468-bc23-026d82d0c428" />
+<img width="725" height="137" alt="螢幕截圖 2026-06-15 下午6 56 58" src="https://github.com/user-attachments/assets/0d286a66-086e-4468-bc23-026d82d0c428" /> <p>
 So for the main screen, you can see there are bus numbers; it shows the ETA time. <p>
 If you click on one of them, it will show the timeline for when you will arrive. <p>
 If you click the WiFi: Connected or SIG: -65dB, it will bring you to the System Monitor Page. <p>
