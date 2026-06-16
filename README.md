@@ -25,7 +25,7 @@ Last but not least, screw the top part into the middle part. <p>
 <img width="255" height="548" alt="螢幕截圖 2026-06-16 下午1 44 09" src="https://github.com/user-attachments/assets/f44093df-22d4-4ecf-b3ef-8509297f35d1" />
 
 # Screen Assembly
-For the screen, just place it in the middle and use the 3D screws to screw it in.
+For the screen, just place it in the middle and use the 3D screws to screw it in. <p>
 <img width="423" height="449" alt="螢幕截圖 2026-06-16 下午1 46 05" src="https://github.com/user-attachments/assets/4312ef96-6104-409c-8328-abca6e19e7bc" />
 
 ## How can you use it?
