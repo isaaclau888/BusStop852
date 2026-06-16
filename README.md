@@ -61,4 +61,5 @@ But you need to edit the .ino file first; you need to enter your WiFi Name and P
 I used Fusion 360 to make the body and screws, Arduino IDE for the coding part, SquareLine Studio for the UIs and last but not least, the ESP32 Cheap Yellow Display (CYD).
 
 # Fallout Zine 
+<img width="4405" height="6250" alt="BusStop852 Fallout Zine" src="https://github.com/user-attachments/assets/f75b0735-576d-4c4b-a548-73ff885bcbf5" />
 
