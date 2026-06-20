@@ -1,7 +1,7 @@
 # BusStop852
 <img width="1920" height="1080" alt="BusStop852_2026-Jun-12_03-25-09PM-000_CustomizedView46320833250_png" src="https://github.com/user-attachments/assets/3e0790ea-186b-4de9-9126-10159c797cc0" />
 
-As a student who always goes to school by bus, I have to check on my phone when I go downstairs to catch the bus. I got some inspiration from Threads; some people have made this kind of display board already. MTR, HK Bus and Flight Display Boards already exist, using the same display that I'm using: ESP32 Cheap Yellow Display(CYD).
+As a student who always goes to school by bus, I have to check my phone when I go downstairs to catch the bus. I got some inspiration from Threads; some people have made this kind of display board already. MTR, HK Bus and Flight Display Boards already exist, using the same display that I'm using: ESP32 Cheap Yellow Display(CYD).
 I want to build one by myself, so I created one :D
 
 ## What's it for?
@@ -50,7 +50,7 @@ I decided to make this because I want to make my life more convenient lol. Witho
 
 ## How do you really use it?
 <img width="725" height="137" alt="螢幕截圖 2026-06-15 下午6 56 58" src="https://github.com/user-attachments/assets/0d286a66-086e-4468-bc23-026d82d0c428" /> <p>
-So for the main screen, you can see there are bus numbers; it shows the ETA time. <p>
+So on the main screen, you can see there are bus numbers; it shows the ETA time. <p>
 If you click on one of them, it will show the timeline for when you will arrive. <p>
 If you click the WiFi: Connected or SIG: -65dB, it will bring you to the System Monitor Page. <p>
 And clicking on the time, it will bring you to the Departure Alarm Page. <p>
@@ -61,5 +61,4 @@ But you need to edit the .ino file first; you need to enter your WiFi Name and P
 I used Fusion 360 to make the body and screws, Arduino IDE for the coding part, SquareLine Studio for the UIs and last but not least, the ESP32 Cheap Yellow Display (CYD).
 
 # Fallout Zine 
-<img width="4405" height="6250" alt="BusStop852 Fallout Zine" src="https://github.com/user-attachments/assets/f75b0735-576d-4c4b-a548-73ff885bcbf5" />
-
+<img width="4405" height="6250" alt="BusStop852 Fallout Zine" src="https://github.com/user-attachments/assets/3165a23a-7270-4959-804f-9a6dea69d4cb" />
